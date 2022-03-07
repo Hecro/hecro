@@ -1,5 +1,5 @@
 # Lucas Freitas
 
-Gosto muito das tecnologias de desenvolvimento web e mobile.
+Passionate about web and mobile development technologies.
 
-Sempre evoluir, estudar e praticar, buscando sempre um nivel cada vez mais alto é facilmente meu objetivo principal :)
+Evolving, studying and practicing, always looking for a next level is easily my main goal :)
