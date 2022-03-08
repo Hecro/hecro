@@ -1,4 +1,4 @@
-# Lucas Freitas
+# Hi, I'm Lucas Freitas
 
 Passionate about web and mobile development technologies.
 
