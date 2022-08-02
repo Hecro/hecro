@@ -1,5 +1,5 @@
-# Hi, I'm Lucas Freitas
+# Hi, I'm Lucas Freitas 👋
 
-Passionate about web and mobile development technologies.
+* I'm interested in web development technologies.
 
-Evolving, studying and practicing, always looking for a next level is easily my main goal :)
+* I'm currently learning Javascript, HTML and CSS
