@@ -3,4 +3,4 @@
 
 * I'm interested in web development technologies ✨⚛
 * I'm currently learning Javascript, HTML and CSS 🌱
-[![Gmail Badge](https://img.shields.io/badge/-lucas.freitasj.ca@gmail.com-9572FC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.freitasj.ca@gmail.com)](mailto:lucas.freitasj.ca@gmail.com)
+<br> [![Gmail Badge](https://img.shields.io/badge/-lucas.freitasj.ca@gmail.com-9572FC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.freitasj.ca@gmail.com)](mailto:lucas.freitasj.ca@gmail.com)
