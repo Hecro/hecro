@@ -8,4 +8,4 @@
 I definitely love technology and I love applying knowledge to create solutions that change people's lives and solve problems.
 
 **You can reach me here c:**
-<br> [![Gmail Badge](https://img.shields.io/badge/-lucas.freitasj.ca@gmail.com-9572FC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.freitasj.ca@gmail.com)](mailto:lucas.freitasj.ca@gmail.com)
+<br> [![Gmail Badge](https://img.shields.io/badge/-emilyhecro@gmail.com-9572FC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emilyhecro@gmail.com)](mailto:emilyhecro@gmail.com)
